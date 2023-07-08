@@ -1,0 +1,36 @@
+Three technologies that create a website
+    Hyper Text Markup Language (HTML) - Create content/buttons/images
+    Cascading Style Sheets (CSS) - Changes appearence
+    JavaScript - Makes website interactive
+
+What is JavaScript?
+    Giving instructions to a computer, computer follows instructions
+
+Numbers
+    follows order of operations
+
+Variables
+    container for storing data
+    behaves if it was the value that it contains
+
+    var - old way to declare variable, function lvl scope
+        Accesible within entire function in which it is declared
+        If declared outside of any function =  global variable
+        
+
+    let - provides block lvl scoping, limited to block (inside loop or if statement) 
+        where they are defined. Not accesible outside of block
+
+    const - declare constants, once value is assigned cannot be reassigned, also block lvl scope
+        does not make value itself immutable
+
+    1. declaration(var, let, const)
+    2. assignment (= assignment operator)
+
+Strings
+    use alert(''); for a alert pop up
+
+    'some' + 'text' + ... => output: 'sometext...'
+    Concatenation: combining strings together
+
+
