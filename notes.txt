@@ -12,7 +12,7 @@ Numbers
 Variables
     container for storing data
     behaves if it was the value that it contains
-
+    
     var - old way to declare variable, function lvl scope
         Accesible within entire function in which it is declared
         If declared outside of any function =  global variable

@@ -16,7 +16,7 @@ console.log(age);
 console.log(student);
 
 //
-document.getElementById('p1').innerHTML = "Hello " + firstName
+document.getElementById('p').innerHTML = "Greetings " + firstName
 document.getElementById('p2').innerHTML = "You're " + age + " years old";
 document.getElementById('p3').innerHTML = "Enrolled: " + student
 
