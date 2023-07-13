@@ -1,4 +1,4 @@
-// Math
+// in built Math methods
 
 let x;
 let y = 6
